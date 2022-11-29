@@ -216,3 +216,7 @@ body{
     margin-top: 100px;
 
 }
+.services.services-content .srv{
+    display: flex;
+    margin-bottom: 40px;
+}
