@@ -223,4 +223,5 @@ body{
 @media(max-width:767px){
     .services.services-content .srv{
         flex-direction: column;
+        text-align: center;
 }
