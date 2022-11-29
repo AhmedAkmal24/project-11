@@ -314,7 +314,14 @@ body{
     height: 375px;
   }
   .about .about-content .image::before{
-
+    content: "";
+    position: absolute;
+    background-color: #ebeced;
+    width: 100px;
+    height: calc(100% + 80px);
+    top: -40px;
+    left: -20px;
+    z-index: -1;
   }
   .about .about-content .image::after{
 
