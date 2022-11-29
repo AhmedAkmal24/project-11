@@ -10,15 +10,15 @@ body{
 /*end global rules*/
 .parent{
     background-color: #EEE;
-    width:600px;
-    margin: auto;
+   
 
 }
 .cointainer{
     padding-left: 15px;
     padding-right: 15px;
     width:600px;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #aaa;
 
 }
