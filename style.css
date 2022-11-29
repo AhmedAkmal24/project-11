@@ -8,3 +8,6 @@ body{
     font-family: "work sans", sans-serif;
 }
 /*end global rules*/
+.parent{
+    background-color: #EEE;
+}
