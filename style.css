@@ -47,6 +47,9 @@ body{
   }
   /*start components*/
   .special-heading{
+    color: #ebeced;
+    font-size: 100px;
+    text-align: center;
     
   }
   /*end components*/
