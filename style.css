@@ -250,6 +250,11 @@ body{
 .services.services-content .image::before{
     content: "";
     background-color: var(--secondary-color);
+    width: 80px;
+    height: 100%;
+    top: 0;
+    position: absolute;
+    right: 0;
 
 }
 .services.services-content .image img{
