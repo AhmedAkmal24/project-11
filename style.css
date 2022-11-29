@@ -317,5 +317,8 @@ body{
 
   }
   .about .about-content .image::after{
-    
+
+  }
+  .about .about-content .image img{
+    max-width: 100%;
   }
