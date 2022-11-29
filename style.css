@@ -122,3 +122,16 @@ body{
     height:calc(100vh-64px);
 
   }
+
+  .landing.intro text{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(10px,10px);
+  }
+  .landing.intro text h1{
+
+  }
+  .landing.intro text p{
+
+  }
