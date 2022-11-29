@@ -91,3 +91,7 @@ body{
     top: calc(100% + 20px);
     display: none;
   }
+  .header.links ul  ::before{
+    content:"" ;
+    border-width: 10px;
+  }
