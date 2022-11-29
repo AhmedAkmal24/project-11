@@ -410,3 +410,10 @@ body{
       font-size: 25px;
     }
   }
+  .footer {
+    background-color: var(--secondary-color);
+    color: white;
+    padding: 30px 10px;
+    text-align: center;
+    font-size: 18px;
+  }
