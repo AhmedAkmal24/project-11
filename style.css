@@ -220,3 +220,6 @@ body{
     display: flex;
     margin-bottom: 40px;
 }
+@media(max-width:767px){
+    .services.services-content .srv{
+}
