@@ -61,6 +61,11 @@ body{
     text-align: center;
     color: #797979;
   }
+  @media(max-width:767px){
+    .special-heading{
+        font-size: 60px;
+    }
+  }
   /*end components*/
   .header{
     padding: 20px;
