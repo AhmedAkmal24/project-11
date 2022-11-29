@@ -298,3 +298,7 @@ body{
      line-height: 1.6;
      margin-bottom: 0;
   }
+  .about{
+    padding-top: var(--section-padding);
+    padding-bottom: calc(var(--section-padding) + 60px);
+  }
