@@ -107,3 +107,6 @@ body{
     color: #333;
     transition: 0.3s;
   }
+  .header.links ul li a:hover{
+    padding-left: 15px;
+  }
