@@ -2,6 +2,8 @@
 :root{
     --main-color:10cab7;
     --secondary-color:#2c4755;
+    --section-padding: 60px;
+    --section-background: #f6f6f6;
 }
 /*End Variables*/
 /*start global rules*/
@@ -268,3 +270,8 @@ body{
     }
 
 }
+.portfolio {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+    background-color: var(--section-background);
+  }
