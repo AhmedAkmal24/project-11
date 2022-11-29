@@ -150,3 +150,9 @@ body{
     line-height: 1.8;
 
   }
+
+  .features{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #f6f6f6;
+  }
