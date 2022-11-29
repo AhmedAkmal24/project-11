@@ -15,7 +15,10 @@ body{
 
 }
 .cointainer{
+    padding-left: 15px;
+    padding-right: 15px;
     width:600px;
     margin: auto;
+    background-color: #aaa;
 
 }
