@@ -132,6 +132,7 @@ body{
     position: absolute;
     left: 50%;
     top: 50%;
+    align-items: center;
     transform: translate(-50px,-50px);
   }
   .landing.intro text h1{
